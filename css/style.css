@@ -84,4 +84,12 @@ ul {
 }
 .photo h4, .photo p {
   text-align: center;
+}
+
+footer {
+  display: flex;
+}
+
+.links {
+  font-size: 30px;
 }/*# sourceMappingURL=style.css.map */
