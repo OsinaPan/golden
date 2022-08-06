@@ -61,4 +61,27 @@ ul {
 }
 .card-body p {
   text-align: center;
+}
+
+.portfolio {
+  background-color: #eff2f5;
+}
+
+.photo {
+  -o-object-fit: cover;
+     object-fit: cover;
+  padding: 6px;
+  align-items: center;
+  max-height: 600px;
+  width: 100%;
+}
+.photo img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  padding: 36px;
+  min-height: 400px;
+  width: 100%;
+}
+.photo h4, .photo p {
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */

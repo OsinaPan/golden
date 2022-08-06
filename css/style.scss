@@ -63,3 +63,23 @@ ul {
         text-align: center;
     }
 }
+
+.portfolio {
+    background-color: #eff2f5;
+}
+.photo {
+    object-fit: cover;
+    padding: 6px;
+    align-items: center;
+    max-height: 600px;
+    width: 100%;
+    img {
+        object-fit: cover;
+        padding: 36px;
+        min-height: 400px;
+        width: 100%;
+    }
+    h4, p{
+        text-align: center;
+    }
+}
