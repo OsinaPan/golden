@@ -92,4 +92,19 @@ footer {
 
 .links {
   font-size: 30px;
+}
+
+@media only screen and (max-width: 400px) {
+  header {
+    background-image: url(/images/header.jpg);
+    background-size: 100%;
+    background-position: cover;
+    background-repeat: no-repeat;
+    -o-object-fit: cover;
+       object-fit: cover;
+    width: 390px;
+  }
+  .title {
+    padding: 18px 0;
+  }
 }/*# sourceMappingURL=style.css.map */
